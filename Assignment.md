@@ -54,7 +54,7 @@ Upload the **Project Explanation Video** using the **Google Form link** provided
 ## 7. LinkedIn Post
 **Submission Format:** URL  
 
-Submit the **URL of your LinkedIn post** related to the project.
+🔗 [View linekdin post](https://www.linkedin.com/posts/allwin-jerome-85881628b_medicalrobotics-artificialintelligence-healthcareinnovation-activity-7436350183518457856--p12?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZsDkQB_4XmLLVU22-5kriEfrPvQbC766s).
 
 
 ---
